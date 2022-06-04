@@ -13,6 +13,6 @@ public class SceneChanger : MonoBehaviour
 
     public void LoadScene()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("GameScene");
     }
 }
