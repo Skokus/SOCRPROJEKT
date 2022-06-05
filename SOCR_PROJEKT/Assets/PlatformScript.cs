@@ -9,12 +9,11 @@ public class PlatformScript : MonoBehaviour
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody2D>();
-        rb.velocity = new Vector2(-5.0f, 0.0f);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        rb.velocity = new Vector2(-5.0f, 0.0f);
     }
 }

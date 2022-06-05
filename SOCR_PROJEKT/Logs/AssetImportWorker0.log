@@ -15,11 +15,11 @@ C:/Users/skok2/Documents/GitHub/SOCRPROJEKT/SOCR_PROJEKT
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-1065
+1039
 Successfully changed project path to: C:/Users/skok2/Documents/GitHub/SOCRPROJEKT/SOCR_PROJEKT
 C:/Users/skok2/Documents/GitHub/SOCRPROJEKT/SOCR_PROJEKT
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 57.02 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 49.20 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.35f1 (18e4db7a9996)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Resources/UnitySubsystems
@@ -35,137 +35,137 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56760
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004106 seconds.
+Registered in 0.002107 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 43.18 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 45.53 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.634 seconds
+- Completed reload, in  0.586 seconds
 Domain Reload Profiling:
-	ReloadAssembly (634ms)
-		BeginReloadAssembly (115ms)
+	ReloadAssembly (586ms)
+		BeginReloadAssembly (65ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (447ms)
-			LoadAssemblies (113ms)
+		EndReloadAssembly (454ms)
+			LoadAssemblies (62ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (143ms)
+			SetupTypeCache (149ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (166ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (167ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (43ms)
+				RefreshPlugins (46ms)
 				BeforeProcessingInitializeOnLoad (13ms)
-				ProcessInitializeOnLoadAttributes (79ms)
-				ProcessInitializeOnLoadMethodAttributes (27ms)
+				ProcessInitializeOnLoadAttributes (78ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.009459 seconds.
+Registered in 0.003614 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000001950E85E010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-000001CF7C77F4C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E431810 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-000001CF7C609BF0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DD96A60 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001CDC0B32400 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509DF7830 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file data-000001CDC1F8A130 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E882C20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file data-000001CDC09CE8F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A48EDE0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-000001CF7C7A40D0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DE80010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000001CF7C7A40D0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EE97230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001CF7C7B94E0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EE47290 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001CDC0037290 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEAFE30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000001CDC0E69010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E1AA020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000001CDC0E69010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEAFE30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001CDC0E98620 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DD96A60 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-000001CDC0B32400 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEAFE30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file data-000001CDC0E98620 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3B6C50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-000001CDC073B230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E896030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-000001CF7C911E30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A41B250 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-000001CF7CB094B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3B6C50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-000001CDC073B230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509E35E30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000001CF7C3CA8A0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3B6C50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000001CDC0413C20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DF61010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000001CDC0BC7020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509C61710 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file data-000001CDC0DAF010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3BB460 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-000001CDC03C1620 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E55E640 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-000001CDC0B32400 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E32EAA0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file data-000001CDC1485A90 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509C61710 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000001CDC0DAF010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EE47290 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001CF7C3EC4C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F4E92C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file data-000001CDC1F8A130 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC71290 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-000001CF7CAC98C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F10050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-000001CDC0C08E40 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3BB460 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file data-000001CDC03C1620 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E8B2010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-000001CF7C3EC4C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 41.51 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 42.37 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.145 seconds
+- Completed reload, in  1.077 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1146ms)
-		BeginReloadAssembly (146ms)
+	ReloadAssembly (1078ms)
+		BeginReloadAssembly (145ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (939ms)
-			LoadAssemblies (156ms)
+		EndReloadAssembly (871ms)
+			LoadAssemblies (109ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (284ms)
-			ReleaseScriptCaches (0ms)
+			SetupTypeCache (285ms)
+			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (46ms)
-			SetupLoadedEditorAssemblies (345ms)
+			SetupLoadedEditorAssemblies (329ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (42ms)
-				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (188ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
 				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -173,15 +173,15 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2255 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 100.2 MB.
-System memory in use after: 100.3 MB.
+Unloading 2257 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.3 MB.
+System memory in use after: 100.4 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2693.
-Total: 2.984200 ms (FindLiveObjects: 0.166400 ms CreateObjectMapping: 0.089300 ms MarkObjects: 2.651900 ms  DeleteObjects: 0.075600 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2695.
+Total: 2.956700 ms (FindLiveObjects: 0.178100 ms CreateObjectMapping: 0.085000 ms MarkObjects: 2.622800 ms  DeleteObjects: 0.069700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -195,142 +195,124 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '968f51da84792a4fff5ace15054c6b24') in 0.013650 seconds 
+  path: Assets/PlatformS
+  artifactKey: Guid(fbdd0f1f932a8044a955592918eef4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformS using Guid(fbdd0f1f932a8044a955592918eef4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5982afc37feab3f0f15db0fb7ee44f') in 0.009973 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.291634 seconds.
-  path: Assets/Scenes/GameScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GameScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a35d70f829233a18c79bac52aa1f85d') in 0.010456 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 15.147051 seconds.
-  path: Assets/Scenes/MainMenu.unity
-  artifactKey: Guid(ecf6c842a9548de45a209d3cce394353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MainMenu.unity using Guid(ecf6c842a9548de45a209d3cce394353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc0dcd59eaf0a61de6c2d1c6b205316') in 0.009003 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 36.252164 seconds.
-  path: Assets/Characters/CharacterMaterial.physicsMaterial2D
-  artifactKey: Guid(f2edef49ff37ae04c9ff443e3f62d310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Characters/CharacterMaterial.physicsMaterial2D using Guid(f2edef49ff37ae04c9ff443e3f62d310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c238ddfa533d19be90274fb436643abb') in 0.056598 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 19.891102 seconds.
-  path: Assets/SceneChanger.cs
-  artifactKey: Guid(6efcd69dc89f7fd429067313b378a782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SceneChanger.cs using Guid(6efcd69dc89f7fd429067313b378a782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb18ff77983222ca29acc1b5475df629') in 0.022376 seconds 
+  Time since last request: 1.757781 seconds.
+  path: Assets/PlatformS/Platform.prefab
+  artifactKey: Guid(30ce1b61d6b21364d9063b8e10d0db32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlatformS/Platform.prefab using Guid(30ce1b61d6b21364d9063b8e10d0db32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1518cfb06a17a011a0a64bfdb759e7') in 0.131323 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003755 seconds.
+Registered in 0.016650 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-000001CDC5AAE040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E339460 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-000001CDC1F86E60 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E18BBB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001CF7C604930 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EA4A820 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file data-000001CDC5D0F7B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509E1E170 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file data-000001CDC43E2960 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950FAEE450 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-000001CF7C93FC10 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950FC46030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000001CDC43E2960 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512EFC4B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001CDC1571030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A2B0230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001CF7C93FC10 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509E1E170 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000001CDC43E2960 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E85E010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000001CDC5AAE040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001CDC52A2020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E18BBB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-000001CDC1491CC0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file data-000001CDC43E2960 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F837630 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-000001CDC15BE510 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F837630 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-000001CDC15BE510 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E33C4B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-000001CDC52B3430 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F837630 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-000001CDC15BE510 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DE80010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000001CDC0850020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509CE8A80 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000001CDC15BE510 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F4CDCA0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000001CDC43A4010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F050010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file data-000001CDC0E0C010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E18BBB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-000001CF7C604930 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC4E010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-000001CF7C804010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEEBAA0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file data-000001CDC044B860 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019510F80080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000001CDC571C020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195127B4550 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001CF7C93FC10 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951296D460 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file data-000001CDC1ADCC80 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC70980 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-000001CDC59B4600 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEB9420 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-000001CDC0421020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509FD86F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file data-000001CF7C594D20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2C30D0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-000001CDC17C3FB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.179 seconds
+- Completed reload, in  2.103 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1180ms)
-		BeginReloadAssembly (142ms)
+	ReloadAssembly (2105ms)
+		BeginReloadAssembly (219ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
+			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
-			ReleaseScriptingObjects (1ms)
-			CreateAndSetChildDomain (37ms)
-		EndReloadAssembly (970ms)
-			LoadAssemblies (113ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1726ms)
+			LoadAssemblies (253ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (357ms)
+			SetupTypeCache (595ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (50ms)
-			SetupLoadedEditorAssemblies (357ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (646ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (122ms)
-				ProcessInitializeOnLoadAttributes (197ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
-				AfterProcessingInitializeOnLoad (11ms)
+				BeforeProcessingInitializeOnLoad (198ms)
+				ProcessInitializeOnLoadAttributes (388ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (14ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2231 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.4 MB.
-System memory in use after: 98.5 MB.
+Unloading 2233 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.3 MB.
+System memory in use after: 101.5 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2696.
-Total: 2.983600 ms (FindLiveObjects: 0.168900 ms CreateObjectMapping: 0.091000 ms MarkObjects: 2.702500 ms  DeleteObjects: 0.020600 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2705.
+Total: 4.144100 ms (FindLiveObjects: 0.421000 ms CreateObjectMapping: 0.188700 ms MarkObjects: 3.487700 ms  DeleteObjects: 0.045000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -343,1458 +325,114 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 44.840443 seconds.
-  path: Assets/SceneChanger.cs
-  artifactKey: Guid(6efcd69dc89f7fd429067313b378a782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SceneChanger.cs using Guid(6efcd69dc89f7fd429067313b378a782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80395d20c6ce9fbb367958569523b0aa') in 0.007597 seconds 
-========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003568 seconds.
+Registered in 0.003441 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-0000019533767020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-000001CDC5AAE040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E33AA80 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-000001CDC1F86E60 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512F5E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001CF7C8D14C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2CE6E0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file data-000001CDC678CF30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file data-000001CDC4976040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EE9E530 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-000001CDC420E840 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2D9040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000001CDC4976040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F502180 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001CDC1E18010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953378BC30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001CF7C93FC10 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000001CDC4976040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D8F020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000001CDC6681030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001CDC52A2020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512F5E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-000001CF7C8D14C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file data-000001CDC4976040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F706020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-000001CDC0887230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F706020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-000001CDC4D5D020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E560440 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-000001CDC5EDFF50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F4E26B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-000001CDC0887230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511696010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000001CF7C26DCE0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F502180 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000001CDC0887230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D06010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000001CDC5928010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file data-000001CDC0E0C010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512F5E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-000001CF7C8D14C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E897420 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-000001CDC0EA2E20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E643BA0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file data-000001CDC51B64B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DE80010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000001CDC571C020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509E20770 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001CDC5955D70 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116C3C70 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file data-000001CF7C8755A0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC707B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-000001CDC59B47D0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F4E26B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-000001CDC419F420 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512F5E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file data-000001CF7C8D14C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-000001CDC2239010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.28 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.115 seconds
+- Completed reload, in  1.560 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1115ms)
-		BeginReloadAssembly (124ms)
+	ReloadAssembly (1560ms)
+		BeginReloadAssembly (195ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (36ms)
-		EndReloadAssembly (927ms)
-			LoadAssemblies (104ms)
+			CreateAndSetChildDomain (60ms)
+		EndReloadAssembly (1281ms)
+			LoadAssemblies (162ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (369ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (307ms)
+			SetupTypeCache (425ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (558ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (95ms)
-				ProcessInitializeOnLoadAttributes (184ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.5 MB.
-System memory in use after: 98.6 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2700.
-Total: 3.292300 ms (FindLiveObjects: 0.210000 ms CreateObjectMapping: 0.090100 ms MarkObjects: 2.965900 ms  DeleteObjects: 0.025300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003418 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E339BC0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A656780 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F02B270 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A2B0230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950FA01010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F502180 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A646800 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511696010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A656780 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511C1E520 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116BD220 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195129D5020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195125DF430 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116BD220 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F502180 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D06010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A656780 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509C4C020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E64B170 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509C61710 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A646800 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195129E2DB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC70EF0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116BD220 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512F5E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.002 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1002ms)
-		BeginReloadAssembly (121ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (33ms)
-		EndReloadAssembly (819ms)
-			LoadAssemblies (107ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (280ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (46ms)
-			SetupLoadedEditorAssemblies (307ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (94ms)
-				ProcessInitializeOnLoadAttributes (182ms)
+				BeforeProcessingInitializeOnLoad (304ms)
+				ProcessInitializeOnLoadAttributes (218ms)
 				ProcessInitializeOnLoadMethodAttributes (17ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.53 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.5 MB.
-System memory in use after: 98.6 MB.
+Unloading 2233 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.4 MB.
+System memory in use after: 101.5 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2703.
-Total: 3.020100 ms (FindLiveObjects: 0.160800 ms CreateObjectMapping: 0.087000 ms MarkObjects: 2.749800 ms  DeleteObjects: 0.021200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 137.796473 seconds.
-  path: Assets/PlatformScript.cs
-  artifactKey: Guid(57ece308b342b954c807f20091010d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PlatformScript.cs using Guid(57ece308b342b954c807f20091010d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee91ea0888990f42b1b7fcef48cf9daa') in 0.010070 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012973 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019511D8F020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E339F70 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950FB64E30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511979080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EE9E530 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEB0040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F502180 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A646800 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511696010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F09BE50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEB0040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951220A090 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533A0B030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511979080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951220A090 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953375F010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116BD220 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D06010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950FB64E30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DF04080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E644DC0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A4E6600 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A646800 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950FB7D7C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC71290 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D1A220 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953405EC40 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.059 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1059ms)
-		BeginReloadAssembly (165ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (835ms)
-			LoadAssemblies (200ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (262ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (42ms)
-			SetupLoadedEditorAssemblies (301ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (100ms)
-				ProcessInitializeOnLoadAttributes (171ms)
-				ProcessInitializeOnLoadMethodAttributes (17ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.5 MB.
-System memory in use after: 98.6 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2706.
-Total: 2.792000 ms (FindLiveObjects: 0.154500 ms CreateObjectMapping: 0.090400 ms MarkObjects: 2.524400 ms  DeleteObjects: 0.021800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003423 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019511D8F020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E3390B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512E2E7B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950FB801F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DE90020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512079010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A48D070 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F092020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953375F010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120D7E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512079010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A48D070 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951102E030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950988DE50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A48D070 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533C4B500 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E409040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512F5E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509C4C020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E2E1860 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019534870080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F092020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512718950 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC710C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116BAC20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DD91A20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509E9E4B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.151 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1151ms)
-		BeginReloadAssembly (113ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (31ms)
-		EndReloadAssembly (979ms)
-			LoadAssemblies (111ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (344ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (323ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (117ms)
-				ProcessInitializeOnLoadAttributes (176ms)
-				ProcessInitializeOnLoadMethodAttributes (14ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.4 MB.
-System memory in use after: 98.5 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2709.
-Total: 2.998600 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.084600 ms MarkObjects: 2.658500 ms  DeleteObjects: 0.021400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003491 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019511D8F020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E3390B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120D7E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511B071F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEB0040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950FCCA010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E186040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953375F010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120D7E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A611010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116BAC20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533A0B030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511B071F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116BAC20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533C4B500 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195115DA010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120D7E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509C4C020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E326BC0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509E9E4B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F83DC70 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC710C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195116BAC20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511A44D70 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509E9E4B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.071 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1072ms)
-		BeginReloadAssembly (173ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (53ms)
-		EndReloadAssembly (831ms)
-			LoadAssemblies (136ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (275ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (49ms)
-			SetupLoadedEditorAssemblies (315ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (101ms)
-				ProcessInitializeOnLoadAttributes (185ms)
-				ProcessInitializeOnLoadMethodAttributes (16ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.5 MB.
-System memory in use after: 98.6 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2712.
-Total: 3.126700 ms (FindLiveObjects: 0.182000 ms CreateObjectMapping: 0.098300 ms MarkObjects: 2.823500 ms  DeleteObjects: 0.022000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003418 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019511D8F020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E33A320 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509C4D2E0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A63C190 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120CE020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509B920A0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953521C030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511696010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533783C20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A611010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951102E030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951102E030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953409F450 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951102E030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533C4B500 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D521B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533783C20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DF04080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E2E2A80 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511C20290 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000193412A9FA0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019534E48720 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533783C20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.105 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1106ms)
-		BeginReloadAssembly (140ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (40ms)
-		EndReloadAssembly (876ms)
-			LoadAssemblies (135ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (313ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (46ms)
-			SetupLoadedEditorAssemblies (309ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (101ms)
-				ProcessInitializeOnLoadAttributes (180ms)
-				ProcessInitializeOnLoadMethodAttributes (16ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.5 MB.
-System memory in use after: 98.7 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2715.
-Total: 3.181000 ms (FindLiveObjects: 0.194800 ms CreateObjectMapping: 0.092700 ms MarkObjects: 2.867400 ms  DeleteObjects: 0.024700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004113 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019511D8F020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E339BC0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A102E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195121D4030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EE9E530 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509B920A0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951220A090 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511696010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A102E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509B920A0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951220A090 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533A0B030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A102E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951220A090 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511F3A060 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509E75EA0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A102E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019533C4B500 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E3317F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A15B020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951209F060 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509EA7C90 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001951220A090 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A102E50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509B920A0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.218 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1219ms)
-		BeginReloadAssembly (110ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (28ms)
-		EndReloadAssembly (1042ms)
-			LoadAssemblies (159ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (322ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (42ms)
-			SetupLoadedEditorAssemblies (374ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (115ms)
-				ProcessInitializeOnLoadAttributes (225ms)
-				ProcessInitializeOnLoadMethodAttributes (17ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.6 MB.
-System memory in use after: 98.8 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2718.
-Total: 3.702900 ms (FindLiveObjects: 0.227300 ms CreateObjectMapping: 0.129400 ms MarkObjects: 3.314200 ms  DeleteObjects: 0.030800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003812 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019511D8F020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E33A320 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195359AA010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E428250 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120CE020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195354EC020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E796020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511754020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511696010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195115F14C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511E2E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D16020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D16020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E428250 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D16020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195121D0020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D521B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195115F14C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DF04080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E32A220 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511754020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953550DDA0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509EA8030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019534E48720 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195115F14C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511754020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.048 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1049ms)
-		BeginReloadAssembly (116ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (31ms)
-		EndReloadAssembly (856ms)
-			LoadAssemblies (106ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (286ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (41ms)
-			SetupLoadedEditorAssemblies (342ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (102ms)
-				ProcessInitializeOnLoadAttributes (204ms)
-				ProcessInitializeOnLoadMethodAttributes (20ms)
-				AfterProcessingInitializeOnLoad (10ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.6 MB.
-System memory in use after: 98.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2721.
-Total: 2.926000 ms (FindLiveObjects: 0.212300 ms CreateObjectMapping: 0.119200 ms MarkObjects: 2.571800 ms  DeleteObjects: 0.021900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003753 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019511D8F020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E3390B0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535509C60 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511475030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953528C0F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EE9E530 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535824820 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3C5A10 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511E2E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953528C0F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511696010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511186020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535509C60 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535824820 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3C5A10 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195121023A0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511475030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3C5A10 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509DF9560 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E774050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511BEC020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E7FA030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535509C60 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DF04080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E32FCC0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535E24010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511E2E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DD8D650 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509EA8EB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A3C5A10 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953583C840 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511E2E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.943 seconds
-Domain Reload Profiling:
-	ReloadAssembly (944ms)
-		BeginReloadAssembly (110ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (775ms)
-			LoadAssemblies (94ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (264ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (41ms)
-			SetupLoadedEditorAssemblies (286ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (93ms)
-				ProcessInitializeOnLoadAttributes (165ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.5 MB.
-System memory in use after: 98.8 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2724.
-Total: 4.926600 ms (FindLiveObjects: 0.349600 ms CreateObjectMapping: 0.156800 ms MarkObjects: 4.384300 ms  DeleteObjects: 0.034300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 819.796458 seconds.
-  path: Assets/New Physics Material 2D.physicsMaterial2D
-  artifactKey: Guid(9c7f3505f1ced374eac49432d73a6eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Physics Material 2D.physicsMaterial2D using Guid(9c7f3505f1ced374eac49432d73a6eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c35973ace4b6b94bf5299e386b35494a') in 0.027039 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.726435 seconds.
-  path: Assets/CharacterMaterial.physicsMaterial2D
-  artifactKey: Guid(9c7f3505f1ced374eac49432d73a6eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CharacterMaterial.physicsMaterial2D using Guid(9c7f3505f1ced374eac49432d73a6eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c871a4c4ed53c5f77f75df723f6ef891') in 0.005471 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004243 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019534E20110 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E339460 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120AADB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535B81090 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E76C040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511B74010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512A93020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A1F8040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A2B0230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E76C040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953367B200 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511332050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A105990 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511A40020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512AAB040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950988DE50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511A40020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A4AB080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F3371C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195129FF530 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511D72090 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511ABA020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC4E010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DEEE7F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535B8CF00 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DE90020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535DBCC30 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509EA78F0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511A40020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F15030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2C30D0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.100 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1101ms)
-		BeginReloadAssembly (131ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (35ms)
-		EndReloadAssembly (889ms)
-			LoadAssemblies (131ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (304ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (41ms)
-			SetupLoadedEditorAssemblies (336ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (112ms)
-				ProcessInitializeOnLoadAttributes (196ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.7 MB.
-System memory in use after: 98.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2727.
-Total: 3.019400 ms (FindLiveObjects: 0.211900 ms CreateObjectMapping: 0.085200 ms MarkObjects: 2.700000 ms  DeleteObjects: 0.021500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003327 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019534E20110 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E33A6D0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120AADB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535B81DA0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EA3E010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511B74010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019534FAA020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A1F8040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A2B0230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950EA3E010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953367B200 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2D9040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A105990 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A38A010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512AAB040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950988DE50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A38A010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A4AB080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F3371C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195129FF530 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019536019040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512F5E020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC4E010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512C9D930 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535B8CF00 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DE90020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F70A20 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509EA7720 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A38A010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F15030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2C30D0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.078 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1078ms)
-		BeginReloadAssembly (137ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (35ms)
-		EndReloadAssembly (858ms)
-			LoadAssemblies (117ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (297ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (42ms)
-			SetupLoadedEditorAssemblies (323ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (109ms)
-				ProcessInitializeOnLoadAttributes (185ms)
-				ProcessInitializeOnLoadMethodAttributes (16ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.7 MB.
-System memory in use after: 98.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2730.
-Total: 3.508200 ms (FindLiveObjects: 0.223600 ms CreateObjectMapping: 0.117700 ms MarkObjects: 3.139800 ms  DeleteObjects: 0.026100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003779 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000019534E20110 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E339460 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195120AADB0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535B8AD50 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E76C040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511B74010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511754020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A1F8040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A2B0230 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950E76C040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001953367B200 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2D9040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A105990 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F81050 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A38A010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512AAB040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2EA450 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A38A010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A4AB080 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F3371C0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535824820 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019536019040 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019511ABA020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DC4E010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019512C9D020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019535B8CF00 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950DE90020 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000195335B3160 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509EA8940 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950A38A010 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000019509F15030 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001950F2C30D0 doesn't match image C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.933 seconds
-Domain Reload Profiling:
-	ReloadAssembly (934ms)
-		BeginReloadAssembly (108ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (767ms)
-			LoadAssemblies (95ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (267ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (40ms)
-			SetupLoadedEditorAssemblies (286ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (94ms)
-				ProcessInitializeOnLoadAttributes (165ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.8 MB.
-System memory in use after: 99.0 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2733.
-Total: 2.941800 ms (FindLiveObjects: 0.194300 ms CreateObjectMapping: 0.089300 ms MarkObjects: 2.637900 ms  DeleteObjects: 0.019700 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2708.
+Total: 4.391000 ms (FindLiveObjects: 0.394400 ms CreateObjectMapping: 0.128600 ms MarkObjects: 3.819800 ms  DeleteObjects: 0.046200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 

@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 126
+  controlID: 61
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 60
+  controlID: 62
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 61
+  controlID: 63
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/PlatformS
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/PlatformS
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\skok2\Documents\GitHub\SOCRPROJEKT\SOCR_PROJEKT
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e4440000
-    m_LastClickedID: 17636
-    m_ExpandedIDs: 00000000e444000000ca9a3b
+    m_SelectedIDs: 14450000
+    m_LastClickedID: 17684
+    m_ExpandedIDs: 00000000fe4400000045000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e4440000
+    m_ExpandedIDs: 00000000fe44000000450000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -483,7 +483,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: eee6ffffc4efffffd2f6ffffa8f8ffff36f9ffff7ef9ffff96f9ffffaaf9ffff64fbffff98590000
+      m_ExpandedIDs: 62fbffff64fbffff92440000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.3609455, y: -0.4507594, z: -123.860985}
+    m_Target: {x: 11.342022, y: -0.53700554, z: -124.90485}
     speed: 2
-    m_Value: {x: -3.3609455, y: -0.4507594, z: -123.860985}
+    m_Value: {x: 11.342022, y: -0.53700554, z: -124.90485}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -596,9 +596,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 7.586129
+    m_Target: 11.069902
     speed: 2
-    m_Value: 7.586129
+    m_Value: 11.069902
   m_Ortho:
     m_Target: 1
     speed: 2
