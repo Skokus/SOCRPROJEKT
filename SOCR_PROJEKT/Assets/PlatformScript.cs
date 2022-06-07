@@ -14,6 +14,7 @@ public class PlatformScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.velocity = new Vector2(-5.0f, 0.0f);
+        rb.velocity = new Vector2(-5.0f*TestCharacter.speedUp, 0.0f);
     }
+
 }
